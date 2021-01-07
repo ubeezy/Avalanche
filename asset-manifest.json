@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Avalanche/static/css/main.7af05a60.chunk.css",
+    "main.js": "/Avalanche/static/js/main.0e8814b9.chunk.js",
+    "main.js.map": "/Avalanche/static/js/main.0e8814b9.chunk.js.map",
+    "runtime-main.js": "/Avalanche/static/js/runtime-main.8fcb63ad.js",
+    "runtime-main.js.map": "/Avalanche/static/js/runtime-main.8fcb63ad.js.map",
+    "static/js/2.2e6c938b.chunk.js": "/Avalanche/static/js/2.2e6c938b.chunk.js",
+    "static/js/2.2e6c938b.chunk.js.map": "/Avalanche/static/js/2.2e6c938b.chunk.js.map",
+    "index.html": "/Avalanche/index.html",
+    "precache-manifest.5187db1c3641acab646865a244d69e96.js": "/Avalanche/precache-manifest.5187db1c3641acab646865a244d69e96.js",
+    "service-worker.js": "/Avalanche/service-worker.js",
+    "static/css/main.7af05a60.chunk.css.map": "/Avalanche/static/css/main.7af05a60.chunk.css.map",
+    "static/js/2.2e6c938b.chunk.js.LICENSE.txt": "/Avalanche/static/js/2.2e6c938b.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/Avalanche/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/feature-tile-icon-01.svg": "/Avalanche/static/media/feature-tile-icon-01.0f9928d7.svg",
+    "static/media/feature-tile-icon-02.svg": "/Avalanche/static/media/feature-tile-icon-02.bd39f304.svg",
+    "static/media/feature-tile-icon-03.svg": "/Avalanche/static/media/feature-tile-icon-03.66f37ba5.svg",
+    "static/media/feature-tile-icon-04.svg": "/Avalanche/static/media/feature-tile-icon-04.836acd10.svg",
+    "static/media/feature-tile-icon-05.svg": "/Avalanche/static/media/feature-tile-icon-05.fa9ba00b.svg",
+    "static/media/feature-tile-icon-06.svg": "/Avalanche/static/media/feature-tile-icon-06.6a177696.svg",
+    "static/media/features-split-image-01.png": "/Avalanche/static/media/features-split-image-01.d9cb99ce.png",
+    "static/media/features-split-image-02.png": "/Avalanche/static/media/features-split-image-02.3c569239.png",
+    "static/media/features-split-image-03.png": "/Avalanche/static/media/features-split-image-03.87e4d053.png",
+    "static/media/logo.svg": "/Avalanche/static/media/logo.2810a88b.svg",
+    "static/media/video-placeholder.jpg": "/Avalanche/static/media/video-placeholder.a622fc5d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8fcb63ad.js",
+    "static/js/2.2e6c938b.chunk.js",
+    "static/css/main.7af05a60.chunk.css",
+    "static/js/main.0e8814b9.chunk.js"
+  ]
+}
