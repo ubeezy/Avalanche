@@ -68,24 +68,16 @@ const Hero = ({
                 className="m-0 mb-32 reveal-from-bottom"
                 data-reveal-delay="400"
               >
-                Our landing page template works on all devices, so you only have
-                to set it up once, and get beautiful results forever.
+                Need a website ?say no more.
+We build webapps and  social media bots.
               </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
                   <Button
                     tag="a"
-                    color="primary"
-                    wideMobile
-                    href="https://cruip.com/"
-                  >
-                    Contact Us
-                  </Button>
-                  <Button
-                    tag="a"
                     color="dark"
                     wideMobile
-                    href="https://github.com/cruip/open-react-template/"
+                    href="https://github.com/Avalanche/"
                   >
                     View Projects
                   </Button>
