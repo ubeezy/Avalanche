@@ -67,10 +67,10 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  NaiBlog
+                   Web Apps
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Web Apps
+                 NaiBlog
                   </h3>
                 <p className="m-0">
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
@@ -93,10 +93,10 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-right" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  BotAble
+                   ChatBots
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Chat Bots
+                 BotAble
                   </h3>
                 <p className="m-0">
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
@@ -119,10 +119,10 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Kiosk
+                  Mobile Apps
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Mobile Applications
+                  Kiosk
                   </h3>
                 <p className="m-0">
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.

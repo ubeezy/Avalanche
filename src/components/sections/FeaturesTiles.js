@@ -45,7 +45,7 @@ const FeaturesTiles = ({
 
   const sectionHeader = {
     title: 'About Us',
-    paragraph: 'We help build flexible websites ,mobile apps and chatbots within your specified timeframe.Let your business grow with Avalanche by giving it an online presence.'
+    paragraph: 'We help build flexible websites ,mobile apps and chatbots within your specified timeframe. Let your business grow with Avalanche by giving it an online presence.'
   };
 
   return (

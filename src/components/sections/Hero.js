@@ -68,11 +68,19 @@ const Hero = ({
                 className="m-0 mb-32 reveal-from-bottom"
                 data-reveal-delay="400"
               >
-                Need a website ?say no more.
-We build webapps and  social media bots.
+                On a verge of creating an online presence for your business  or personal portfolio.
+                 We'll help you Launch your site to the world
               </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
+                <Button
+                    tag="a"
+                    color="primary"
+                    wideMobile
+                    href="https://github.com/Avalanche/"
+                  >
+                    Contact us
+                  </Button>
                   <Button
                     tag="a"
                     color="dark"
