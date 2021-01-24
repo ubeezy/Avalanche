@@ -61,33 +61,26 @@ const Hero = ({
               data-reveal-delay="200"
             >
               {" "}
-              <span className="text-color-primary">Avalanche</span>
+              <span className="text-color-primary">Bazenga</span>
             </h1>
             <div className="container-xs">
               <p
                 className="m-0 mb-32 reveal-from-bottom"
                 data-reveal-delay="400"
               >
-                On a verge of creating an online presence for your business  or personal portfolio.
-                 We'll help you Launch your site to the world
+                Your Digital Partner. <br />
+                On a verge of creating an online presence for your business or
+                personal portfolio.
               </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
-                <Button
+                  <Button
                     tag="a"
                     color="primary"
                     wideMobile
-                    href="https://github.com/Avalanche/"
+                    href="mailto:jeffubyi@gmail.com"
                   >
                     Contact us
-                  </Button>
-                  <Button
-                    tag="a"
-                    color="dark"
-                    wideMobile
-                    href="https://github.com/Avalanche/"
-                  >
-                    View Projects
                   </Button>
                 </ButtonGroup>
               </div>

@@ -45,7 +45,7 @@ const FeaturesTiles = ({
 
   const sectionHeader = {
     title: 'About Us',
-    paragraph: 'We help build flexible websites ,mobile apps and chatbots within your specified timeframe. Let your business grow with Avalanche by giving it an online presence.'
+    paragraph:  'Experienced in building robust websites ,mobile apps and chatbots within your specified timeframe. Solving real world business problems with efficient and well thought out coding solutions.'
   };
 
   return (
@@ -71,10 +71,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Stylish
+                    Creative Design
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                  In an increasingly competitive online world it has become more important than ever to engage your users with a creatively designed website.
                     </p>
                 </div>
               </div>
@@ -93,10 +93,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Modern
+                    Modern Development
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                  Utilising technical expertise gained from years of solving real world business problems with efficient and well thought out coding solutions.
                     </p>
                 </div>
               </div>
@@ -108,18 +108,18 @@ const FeaturesTiles = ({
                   <div className="features-tiles-item-image mb-16">
                     <Image
                       src={require('./../../assets/images/feature-tile-icon-03.svg')}
-                      alt="Features tile icon 03"
+                      alt="Features tile icon 03"For Web and Mobile app development
                       width={64}
                       height={64} />
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Responsive
+                    Digital Marketing
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
-                    </p>
+                  Achieve measurable results with an online marketing strategy designed to increase your website visitors and retain your customers.
+                   </p>
                 </div>
               </div>
             </div>
