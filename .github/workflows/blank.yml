@@ -34,3 +34,10 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+      - name: Hacktoberfest Greet
+     # You may pin to the exact commit or the version.
+     # uses: HarishTeens/hacktoberfest-greet@1256295314dfd2fec226daa8857423c4dfbef06d
+        uses: HarishTeens/hacktoberfest-greet@v1.1.0
+        with:
+          # 
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
