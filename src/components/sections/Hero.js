@@ -57,8 +57,7 @@ const Hero = ({
                 data-reveal-delay="400"
               >
                 Your Digital Partner. <br />
-                On a verge of creating an online presence for your business or
-                personal portfolio.
+                Let's bring your ideas into reality by creating an online presence.
               </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>

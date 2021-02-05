@@ -112,7 +112,7 @@ const Header = ({
                       navPosition && `header-nav-${navPosition}`
                     )}>
                     <li>
-                      <Link to="#0" onClick={closeMenu}>Get in touch</Link>
+                      <Link to={{pathname:"https://t.me/jeffubayi"}} target="_blank" onClick={closeMenu} >Get in touch</Link>
                     </li>
                   </ul>
                   {!hideSignin &&

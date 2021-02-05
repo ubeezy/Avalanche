@@ -51,7 +51,7 @@ const FeaturesSplit = ({
 
   const sectionHeader = {
     title: 'Portfolio projects',
-    paragraph: 'Here  are asome  honourable projects built at Avalanche'
+    paragraph: 'Here  are some  honourable projects at Bazenga'
   };
 
   return (
@@ -73,7 +73,7 @@ const FeaturesSplit = ({
                  NaiBlog
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                   A blog site with relative social articles. Inspired by the Netflix app features, the site comes with a search and recomendation design. As a person who likes reading, this site is a haven for writing and reading articles online.
                   </p>
               </div>
               <div className={
@@ -99,7 +99,7 @@ const FeaturesSplit = ({
                  BotAble
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                  A chatbot based on Telegram that helps in marketing and customer support, inclusive with a dialog flow to make it more human appealing.
                   </p>
               </div>
               <div className={
@@ -125,7 +125,7 @@ const FeaturesSplit = ({
                   Kiosk
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                  An Ecommerce site to shop for products related to setup shop. Its a mobile app based on google playstore that allows you to add products to a cart and online payments
                   </p>
               </div>
               <div className={

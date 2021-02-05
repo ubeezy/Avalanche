@@ -62,14 +62,14 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                    — Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum cillum dolore eu fugiat.
+                    — “Bazenga has a very patient and skilled development leadership. We have worked together on numerous complex projects, very often against tight deadlines and always delivered top quality work achieving all business goals.”
                       </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
-                  <span className="testimonial-item-name text-color-high">Roman Level</span>
+                  <span className="testimonial-item-name text-color-high">Kiptoo Magutt</span>
                   <span className="text-color-low"> / </span>
                   <span className="testimonial-item-link">
-                    <a href="#0">AppName</a>
+                    <a href="https://www.twende.app/">Twende.app</a>
                   </span>
                 </div>
               </div>
@@ -79,14 +79,14 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                    — Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum cillum dolore eu fugiat.
+                    — “Bazenga has outstanding professionals who always strives to get things done, being focused on quality and consistency of the work, with sharp attention to any details. I would definitely recommend Bazenga.”
                       </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
-                  <span className="testimonial-item-name text-color-high">Diana Rynzhuk</span>
+                  <span className="testimonial-item-name text-color-high">Rose Makena</span>
                   <span className="text-color-low"> / </span>
                   <span className="testimonial-item-link">
-                    <a href="#0">AppName</a>
+                    <a href="https://naiblog.xyz/">Naiblog.xyz</a>
                   </span>
                 </div>
               </div>
@@ -96,14 +96,14 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                    — Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum cillum dolore eu fugiat.
+                    — I have found Bazenga to be efficient in both building and updating my website as and when necessary - thank you Bazenga.
                       </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
-                  <span className="testimonial-item-name text-color-high">Ben Stafford</span>
+                  <span className="testimonial-item-name text-color-high">Ian Keddy</span>
                   <span className="text-color-low"> / </span>
                   <span className="testimonial-item-link">
-                    <a href="#0">AppName</a>
+                    <a href="https://majorfx.netlify.app/landing">MajorFx</a>
                   </span>
                 </div>
               </div>
